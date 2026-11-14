@@ -28,7 +28,6 @@ Based in **Costa Rica**, with experience across Latin America. I enjoy translati
 | Project | What it explores |
 | :--- | :--- |
 | [**Personal website**](https://github.com/carlosperezcr/carlosperez-web) | Bilingual professional site, engineering writing, and ideas. [Visit carlosperez.cr](https://carlosperez.cr) |
-| [**NetTools Pro**](https://github.com/carlosperezcr/nettools-pro) | Network tooling and practical engineering workflows |
 | [**BGP monitoring · Zabbix & BIRD**](https://github.com/carlosperezcr/zabbix-bgp-monitoring-bird) | BGP monitoring and operational visibility |
 | [**IPv4 / IPv6 BGP monitoring**](https://github.com/carlosperezcr/zabbix-bgp-ipv4-ipv6-monitoring) | Monitoring across both IP protocol families |
 
