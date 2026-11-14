@@ -32,6 +32,13 @@ Based in **Costa Rica**, with experience across Latin America. I enjoy translati
 | [**BGP monitoring · Zabbix & BIRD**](https://github.com/carlosperezcr/zabbix-bgp-monitoring-bird) | BGP monitoring and operational visibility |
 | [**IPv4 / IPv6 BGP monitoring**](https://github.com/carlosperezcr/zabbix-bgp-ipv4-ipv6-monitoring) | Monitoring across both IP protocol families |
 
+### Industry & community
+
+Beyond day-to-day engineering, I contribute to the communities and collaborative initiatives that strengthen Internet interconnection.
+
+- **[Internet Exchange Federation (IX-F)](https://ix-f.net/)** · GitHub organization owner for [ix-f-hub](https://github.com/ix-f-hub), supporting its technical collaboration space.
+- **LAC-IX · Electoral Commission** · Participation in the regional Internet exchange community's electoral processes.
+
 ### Beyond the CLI
 
 Great infrastructure is more than good configurations. It takes sound architecture, clear operational processes, and the ability to connect technical decisions with business priorities.
