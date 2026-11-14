@@ -1,53 +1,42 @@
 <div align="center">
 
-# Carlos Ernesto Pérez
+<img src="./assets/profile-banner.svg" alt="Carlos Ernesto Pérez — Engineering what connects us" width="100%" />
 
-### Network Engineering · Internet Infrastructure · Digital Transformation
+<br />
 
-**Engineering reliable networks. Building a more connected future.**
+**Building resilient networks. Connecting engineering with strategy.**
 
-[**Website**](https://carlosperez.cr) &nbsp;·&nbsp; [**Explore my work**](https://github.com/carlosperezcr?tab=repositories) &nbsp;·&nbsp; [**Get in touch**](https://carlosperez.cr/contact)
+[**Website**](https://carlosperez.cr) &nbsp;·&nbsp; [**Projects**](https://github.com/carlosperezcr?tab=repositories) &nbsp;·&nbsp; [**Contact**](https://carlosperez.cr/contact)
 
 </div>
 
----
-
 ### Hello, I'm Carlos.
 
-I'm a network engineer working at the intersection of **Internet infrastructure, network operations, automation, and digital transformation**.
+I work at the intersection of **Internet infrastructure, network engineering, automation, and digital transformation**. My experience spans telecommunications infrastructure, data centers, routing, interconnection, and the operational challenges of keeping critical networks reliable.
 
-My background spans telecommunications infrastructure, data centers, routing and interconnection, and the operational challenges of keeping critical networks reliable. I enjoy turning complex engineering problems into practical, resilient solutions—and connecting technical decisions with long-term strategy.
+Based in **Costa Rica**, with experience across Latin America. I enjoy translating complex technical challenges into resilient systems and practical decisions with long-term impact.
 
-Based in **Costa Rica**, with experience across Latin America.
+### Areas of focus
 
-### What I work on
-
-| Focus | Areas |
-| :--- | :--- |
-| **Internet infrastructure** | Internet exchange points, BGP, peering, routing policy, RPKI, IPv4 / IPv6 |
-| **Network engineering** | High-capacity networks, data center connectivity, resilience, troubleshooting |
-| **Automation & observability** | Network tooling, monitoring, telemetry, operational workflows |
-| **Technology strategy** | Infrastructure evolution, technical leadership, digital transformation |
+**Internet infrastructure** · Internet exchange points, BGP, peering, RPKI, routing policy, IPv4 / IPv6  
+**Network engineering** · High-capacity networks, data center connectivity, resilience, troubleshooting  
+**Automation & observability** · Network tooling, monitoring, telemetry, operational workflows  
+**Technology strategy** · Infrastructure evolution, technical leadership, digital transformation
 
 ### Selected work
 
-**[Personal website · carlosperez.cr](https://github.com/carlosperezcr/carlosperez-web)**  
-A bilingual space for my engineering work, technical writing, and professional perspective. [Visit the website](https://carlosperez.cr).
-
-**[NetTools Pro](https://github.com/carlosperezcr/nettools-pro)**  
-A network tooling project.
-
-**[BGP monitoring with Zabbix & BIRD](https://github.com/carlosperezcr/zabbix-bgp-monitoring-bird)**  
-A project focused on BGP monitoring and operational visibility.
-
-**[IPv4 / IPv6 BGP monitoring](https://github.com/carlosperezcr/zabbix-bgp-ipv4-ipv6-monitoring)**  
-Network monitoring work across both IP protocol families.
+| Project | What it explores |
+| :--- | :--- |
+| [**Personal website**](https://github.com/carlosperezcr/carlosperez-web) | Bilingual professional site, engineering writing, and ideas. [Visit carlosperez.cr](https://carlosperez.cr) |
+| [**NetTools Pro**](https://github.com/carlosperezcr/nettools-pro) | Network tooling and practical engineering workflows |
+| [**BGP monitoring · Zabbix & BIRD**](https://github.com/carlosperezcr/zabbix-bgp-monitoring-bird) | BGP monitoring and operational visibility |
+| [**IPv4 / IPv6 BGP monitoring**](https://github.com/carlosperezcr/zabbix-bgp-ipv4-ipv6-monitoring) | Monitoring across both IP protocol families |
 
 ### Beyond the CLI
 
-I believe strong infrastructure needs more than good configurations: it needs sound architecture, clear operational processes, and people who can bridge engineering and business priorities.
+Great infrastructure is more than good configurations. It takes sound architecture, clear operational processes, and the ability to connect technical decisions with business priorities.
 
-I also enjoy sharing knowledge and helping others grow in networking and technology.
+I also value sharing knowledge and helping others grow in networking and technology.
 
 ---
 
@@ -57,6 +46,6 @@ I also enjoy sharing knowledge and helping others grow in networking and technol
 
 [**carlosperez.cr**](https://carlosperez.cr) &nbsp;·&nbsp; [**GitHub**](https://github.com/carlosperezcr)
 
-<sub>Built with curiosity, engineering discipline, and a long-term perspective.</sub>
+<sub>Engineering discipline · Curiosity · Long-term perspective</sub>
 
 </div>

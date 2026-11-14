@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Carlos Ernesto Pérez — Network Engineering, Internet Infrastructure, Digital Transformation">
+ <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1628"/><stop offset="1" stop-color="#142B49"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0878D8"/><stop offset="1" stop-color="#38BDF8"/></linearGradient></defs>
+ <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+ <g opacity=".17" stroke="#38BDF8" fill="none" stroke-width="1.5"><path d="M790 0L880 72 1010 42 1120 135 1200 110M760 160L890 120 990 200 1130 175 1200 240M820 330L940 265 1080 300 1200 260"/><path d="M880 72L890 120 990 200 1010 42M1120 135L1130 175 1080 300"/></g>
+ <g fill="#38BDF8" opacity=".65"><circle cx="880" cy="72" r="4"/><circle cx="1010" cy="42" r="4"/><circle cx="990" cy="200" r="5"/><circle cx="1130" cy="175" r="4"/><circle cx="940" cy="265" r="4"/></g>
+ <rect x="62" y="58" width="46" height="4" rx="2" fill="url(#accent)"/>
+ <text x="62" y="102" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3" fill="#38BDF8">CARLOS ERNESTO PÉREZ</text>
+ <text x="62" y="170" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="43" fill="#F6F8FB">Engineering what connects us.</text>
+ <text x="62" y="218" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#CAD7E6">Network Engineering  /  Internet Infrastructure  /  Digital Transformation</text>
+ <rect x="62" y="265" width="360" height="1" fill="#355574"/>
+ <text x="62" y="293" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#A8B9CD">carlosperez.cr</text>
+</svg>
